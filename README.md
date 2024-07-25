@@ -2,7 +2,7 @@
 
 **`Programmer/Builder`**
 
-### Full Stack Developer | building and breaking solutions for sheer egoism and aesthetic enthusiasm.
+#### Full Stack Developer | building and breaking solutions for sheer egoism and aesthetic enthusiasm.
 ---
 
 ### Here's how you can find me!
